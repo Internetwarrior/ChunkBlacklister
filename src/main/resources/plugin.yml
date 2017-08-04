@@ -1,0 +1,7 @@
+ name: ChunkBlacklister
+ version: 1.0.0
+ description: This Plugin disables the use of Redstone in a chunk which exceeds a number of pistons.
+ author: InternetWarrior
+
+ main: chunkblacklister.ChunkBlackLister
+ database: false
