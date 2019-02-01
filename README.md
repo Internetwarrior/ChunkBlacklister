@@ -1,5 +1,4 @@
 # Redstone Chunk Blacklister
-A project apart of my application process at LemonCloud
 
 ## Briefing
 
